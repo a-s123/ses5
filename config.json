@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "Vista Her Daim",
+        "GUILD_ID": "824990455363010609",
+        "VOICE_CHANNEL": "824990456303583262",
+        "MIN_STAFF_ROLE": "832282179366289440"
+    },
+    "FILES": {
+        "WELCOME": "",
+        "STAFF": "default_files/mixli.mp3"
+    },
+    "TOKEN": "ODM1NjcxODAwNTMxNzc5NjA1.YIS2Aw.lfdDfGjUR4TXPUNsp8ngXaKwiS4"
+}
